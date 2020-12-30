@@ -1,0 +1,2 @@
+class Tohome:
+	pass
