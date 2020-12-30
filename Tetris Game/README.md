@@ -15,4 +15,9 @@ This is a simple tetris game coded in pygame.
 
 ## Screenshots
 
-TODO
+![main_menu](https://github.com/mhamzaerol/Mini-Projects/blob/main/Tetris%20Game/screenshots/main_menu.JPG?raw=true)
+![game_1](https://github.com/mhamzaerol/Mini-Projects/blob/main/Tetris%20Game/screenshots/game_1.JPG?raw=true)
+![game_2](https://github.com/mhamzaerol/Mini-Projects/blob/main/Tetris%20Game/screenshots/game_2.JPG?raw=true)
+![paused](https://github.com/mhamzaerol/Mini-Projects/blob/main/Tetris%20Game/screenshots/paused.JPG?raw=true)
+![score_save](https://github.com/mhamzaerol/Mini-Projects/blob/main/Tetris%20Game/screenshots/score_save.JPG?raw=true)
+![high_scores](https://github.com/mhamzaerol/Mini-Projects/blob/main/Tetris%20Game/screenshots/high_scores.JPG?raw=true)
